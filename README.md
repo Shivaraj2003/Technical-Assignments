@@ -14,4 +14,4 @@ This repository serves as a collection of assignments and code samples that I ha
 
 If you're a fellow student or developer, feel free to explore the code and assignments in this repository. You may find these resources helpful for learning and reference.
 
-<p align="center">Happy coding! 🚀</p>
+## Happy coding! 🚀

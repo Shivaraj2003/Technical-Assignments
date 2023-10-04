@@ -9,6 +9,7 @@
 ## 📖 About
 
 This repository serves as a collection of assignments and code samples that I have completed as part of the Dlithe Technical Training program. 
+
 <!-- Assignments Section -->
 ## 🌟 Usage
 

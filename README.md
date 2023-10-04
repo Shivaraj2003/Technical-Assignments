@@ -2,7 +2,6 @@
 <h1 align="center">Dlithe Technical Training Assignments </h1>
 
 <!-- Project Description -->
-
 <p align="center">🚀 Welcome to the Dlithe Technical Training Assignments repository! This repository contains the code for assignments completed during the Dlithe Technical Training program.</p>
 
 
